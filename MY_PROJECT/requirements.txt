@@ -17,7 +17,7 @@ importlib-resources==6.5.2
 kiwisolver==1.4.7
 lxml==6.0.0
 matplotlib==3.9.4
-numpy<2
+
 packaging==25.0
 pillow==11.3.0
 PyJWT==2.9.0
@@ -31,4 +31,5 @@ typing-extensions==4.14.1
 tzdata==2025.2
 urllib3==2.5.0
 zipp==3.23.0
+
 
