@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'app_all',
     'crispy_forms',
     'crispy_bootstrap4',
-    'djangorestframework',
+     'rest_framework',
 ]
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap4"
 CRISPY_TEMPLATE_PACK = "bootstrap4"
